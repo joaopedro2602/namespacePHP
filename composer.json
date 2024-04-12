@@ -1,0 +1,16 @@
+{
+    "name": "maquina/atap",
+    "autoload": {
+        "psr-4": {
+            "App_implements\\": "app/src/implements",
+            "App_extends\\": "app/src/extends"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "João Pedro Silva Cabral"
+        }
+    ],
+    "require": {}
+}
